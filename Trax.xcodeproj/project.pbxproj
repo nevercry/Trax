@@ -11,6 +11,7 @@
 		4ABF419B1BCA47A300E836DC /* GPX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABF419A1BCA47A300E836DC /* GPX.swift */; settings = {ASSET_TAGS = (); }; };
 		4ABF419D1BCBA5C400E836DC /* MKGPX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABF419C1BCBA5C400E836DC /* MKGPX.swift */; settings = {ASSET_TAGS = (); }; };
 		4ABF419F1BCBBA1C00E836DC /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABF419E1BCBBA1C00E836DC /* ImageViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		4ABF41E11BCFFF7400E836DC /* EditWaypointViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ABF41E01BCFFF7400E836DC /* EditWaypointViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		4AC7BBBE1BC663550001BAE0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC7BBBD1BC663550001BAE0 /* AppDelegate.swift */; };
 		4AC7BBC31BC663550001BAE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AC7BBC11BC663550001BAE0 /* Main.storyboard */; };
 		4AC7BBC51BC663550001BAE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AC7BBC41BC663550001BAE0 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 		4ABF419A1BCA47A300E836DC /* GPX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GPX.swift; sourceTree = "<group>"; };
 		4ABF419C1BCBA5C400E836DC /* MKGPX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MKGPX.swift; sourceTree = "<group>"; };
 		4ABF419E1BCBBA1C00E836DC /* ImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		4ABF41E01BCFFF7400E836DC /* EditWaypointViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditWaypointViewController.swift; sourceTree = "<group>"; };
 		4AC7BBBA1BC663550001BAE0 /* Trax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trax.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AC7BBBD1BC663550001BAE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4AC7BBC21BC663550001BAE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				4ABF41981BCA3D5200E836DC /* GPXViewController.swift */,
 				4ABF419E1BCBBA1C00E836DC /* ImageViewController.swift */,
 				4AC7BBC11BC663550001BAE0 /* Main.storyboard */,
+				4ABF41E01BCFFF7400E836DC /* EditWaypointViewController.swift */,
 				4AC7BBC41BC663550001BAE0 /* Assets.xcassets */,
 				4AC7BBC61BC663550001BAE0 /* LaunchScreen.storyboard */,
 				4AC7BBC91BC663550001BAE0 /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				4AC7BBBE1BC663550001BAE0 /* AppDelegate.swift in Sources */,
 				4ABF419D1BCBA5C400E836DC /* MKGPX.swift in Sources */,
+				4ABF41E11BCFFF7400E836DC /* EditWaypointViewController.swift in Sources */,
 				4ABF419F1BCBBA1C00E836DC /* ImageViewController.swift in Sources */,
 				4ABF41991BCA3D5200E836DC /* GPXViewController.swift in Sources */,
 				4ABF419B1BCA47A300E836DC /* GPX.swift in Sources */,
